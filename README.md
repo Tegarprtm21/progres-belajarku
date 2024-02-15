@@ -8,3 +8,7 @@ Belajar kelas Git dengan GITHUB. (Progres 38%)
 **15 Februari 2024**<br>
 Belajar kelas Github. (Progres 39%)
 * Membuat repository github sendiri.
+
+**15 Februari 2024**<br>
+Belajar kelas Memulai Github. (Progres 42%)
+* Tantangan Menambahkan Progres Belajar
